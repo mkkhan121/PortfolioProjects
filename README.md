@@ -6,4 +6,6 @@ The visualization part was solely done in Tableau public.
 
 #### Nashville Housing Data Cleaning in SQL
 
-From date formats to dealing with duplicates and nulls, splitting data in columns to the use of CTE/Temp table etc. Basically cleaning the data in a nutshell.
+Large dataset containing residential and housing data in Nashville, USA.
+
+From date formats to dealing with duplicates and nulls, splitting data in columns or rows to the use of CTE/Temp table etc. Basically cleaning the data in a nutshell.
